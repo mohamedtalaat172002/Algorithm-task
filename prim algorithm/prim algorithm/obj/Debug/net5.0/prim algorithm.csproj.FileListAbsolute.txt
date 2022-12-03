@@ -1,0 +1,16 @@
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\bin\Debug\net5.0\prim algorithm.exe
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\bin\Debug\net5.0\prim algorithm.deps.json
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\bin\Debug\net5.0\prim algorithm.runtimeconfig.json
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\bin\Debug\net5.0\prim algorithm.runtimeconfig.dev.json
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\bin\Debug\net5.0\prim algorithm.dll
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\bin\Debug\net5.0\ref\prim algorithm.dll
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\bin\Debug\net5.0\prim algorithm.pdb
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\obj\Debug\net5.0\prim algorithm.csproj.AssemblyReference.cache
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\obj\Debug\net5.0\prim algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\obj\Debug\net5.0\prim algorithm.AssemblyInfoInputs.cache
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\obj\Debug\net5.0\prim algorithm.AssemblyInfo.cs
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\obj\Debug\net5.0\prim algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\obj\Debug\net5.0\prim algorithm.dll
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\obj\Debug\net5.0\ref\prim algorithm.dll
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\obj\Debug\net5.0\prim algorithm.pdb
+C:\Users\Hardware Store\Desktop\prim algorithm\prim algorithm\obj\Debug\net5.0\prim algorithm.genruntimeconfig.cache
